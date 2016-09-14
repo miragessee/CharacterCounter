@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					84E5D16E1D895749001B325D = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = 5X2T34RQX7;
 						ProvisioningStyle = Automatic;
 					};
 					84E5D1821D89574A001B325D = {
@@ -412,7 +413,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 5X2T34RQX7;
 				INFOPLIST_FILE = CharacterCounter/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.miragessee.CharacterCounter;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -424,7 +427,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 5X2T34RQX7;
 				INFOPLIST_FILE = CharacterCounter/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.miragessee.CharacterCounter;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -505,6 +510,7 @@
 				84E5D1991D89574A001B325D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		84E5D19A1D89574A001B325D /* Build configuration list for PBXNativeTarget "CharacterCounterTests" */ = {
 			isa = XCConfigurationList;
@@ -513,6 +519,7 @@
 				84E5D19C1D89574A001B325D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		84E5D19D1D89574A001B325D /* Build configuration list for PBXNativeTarget "CharacterCounterUITests" */ = {
 			isa = XCConfigurationList;
@@ -521,6 +528,7 @@
 				84E5D19F1D89574A001B325D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
